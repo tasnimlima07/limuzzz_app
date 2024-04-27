@@ -3,10 +3,6 @@
 
 Limuzzz App is a web application built for [Limuzzz](https://limuzzz.com), a platform for discovering and booking travel experiences. The app aims to provide users with a seamless experience for browsing, booking, and managing their travel plans.
 
-## Demo
-
-You can access a live demo of the Limuzzz App [here](https://example.com).
-
 ## Features
 
 - **User Authentication**: Allow users to sign up, log in, and log out securely.
